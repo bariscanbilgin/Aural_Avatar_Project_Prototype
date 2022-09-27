@@ -1,0 +1,6 @@
+#TODO
+- Lm creation screen bugs will be fixed
+- win/lose screen sound-visual AA informations will be added
+- second phase hypothesis testing will be held (after fixing the bugs)
+
+#Barış Can Bilgin - 2022
