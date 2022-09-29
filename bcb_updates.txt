@@ -8,5 +8,6 @@ FIXED - Lm creation screen bugs will be fixed
 ADDED - win/lose screen sound-visual AA informations will be added
 ADDED - background music
 ADDED - instant lm(AA) feedback in succesful interaction
+RPLCD - Lm sound from [grand piano] to [street bells + full chain master]
 
 #Barış Can Bilgin - 2022
