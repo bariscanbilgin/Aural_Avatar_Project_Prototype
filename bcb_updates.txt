@@ -1,6 +1,11 @@
 #TODO
-- Lm creation screen bugs will be fixed
-- win/lose screen sound-visual AA informations will be added
+- Lm creation UI will be enlarged to one of these 4x5 / 5x4 / 5x5 from 3x4
+- notes will be changed to:  d-eb-g-b || d-eb-g-a-b  from d-eb-f
 - second phase hypothesis testing will be held (after fixing the bugs)
+
+
+FIXED - Lm creation screen bugs will be fixed
+ADDED - win/lose screen sound-visual AA informations will be added
+ADDED - instant lm(AA) feedback in succesful interaction
 
 #Barış Can Bilgin - 2022
