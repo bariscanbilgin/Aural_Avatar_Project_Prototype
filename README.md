@@ -4,8 +4,9 @@
 
 
 Barış Can Bilgin tarafından, 
-2022 yılında Yıldız Teknik Üniversitesi, İnteraktif Medya Yüksek Lisans programı, 
-araştırma yöntemleri dersi için hazırlanmış bir prototiptir.
+2022 yılında Yıldız Teknik Üniversitesi, İnteraktif Medya Yüksek Lisans sürecinde, 
+"Dijital Oyunlarda Duysal Avatar: Kullanıcılar Tarafından Tasarlanabilir Leitmotivlerin Kimlik Temsili İşleviyle İnteraktif Medyada Kullanılması" 
+isimli akademik yayın için hazırlanmış bir prototiptir.
 
 
 Made by Barış Can Bilgin for a personal academic research in Yildiz Technical University.
