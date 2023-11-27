@@ -1,4 +1,4 @@
-# User-Created Leitmotivs as Aural Avatars - Prototpe
+# User-Created Leitmotivs as Aural Avatars - Prototype Game
 // Barış Can Bilgin , 2022
 
 
